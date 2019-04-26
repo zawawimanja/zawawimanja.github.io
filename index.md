@@ -18,7 +18,7 @@ Having passion and ability to interact, touch, and play is the reason focusing o
 2. PHP
 3. C#
 
-Database
+-Database
 1. Firebase
 2. MySQL
 
