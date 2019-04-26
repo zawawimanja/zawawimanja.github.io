@@ -1,8 +1,39 @@
-## Welcome to GitHub Pages
+## Mobile Application Developer
 
-You can use the [editor on GitHub](https://github.com/zawawimanja/AboutMe/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Having passion and ability to interact, touch, and play is the reason focusing on mobile development especially Android. As a solo developer need to research and learn all things. Open Source is the best way to learn and contribute back to the community. Interested in cybersecurity for reverse engineering of Android mobile application and also a Digital Marketer.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+- Frontend 
+1. XML
+
+- Backend
+1. Java
+2.PHP
+3.C#
+
+Database
+1. Firebase
+2. MySQL
+
+- Marketing SEO SocMed
+1. Google Analytics
+2. Google Play Console
+3. Google Adwords
+4. AppAnie
+5. AppBrain.
+
+- Monetization
+1. Google Admob
+2. Google Adsense
+3. Youtube Adsense
+
+- Security
+1. Apktool
+2. JAdxgui
+3. Frida
+4. BurpSuite
+
+
 
 ### Markdown
 
@@ -28,9 +59,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zawawimanja/AboutMe/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
