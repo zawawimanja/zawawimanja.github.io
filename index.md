@@ -15,8 +15,8 @@ Having passion and ability to interact, touch, and play is the reason focusing o
 
 - Backend
 1. Java
-2.PHP
-3.C#
+2. PHP
+3. C#
 
 Database
 1. Firebase
