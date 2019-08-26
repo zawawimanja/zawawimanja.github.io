@@ -1,13 +1,15 @@
-## Mobile Application Developer
+## Application Developer
 
 Having passion and ability to interact, touch, and play is the reason focusing on mobile development especially Android. As a solo developer need to research and learn all things. Open Source is the best way to learn and contribute back to the community. Interested in cybersecurity for reverse engineering of Android mobile application and also a Digital Marketer.
 
 
 - Frontend 
 1. XML
+2. XAML
 
 - Backend
 1. Java
+2. C#
 
 - Database
 1. Firebase
