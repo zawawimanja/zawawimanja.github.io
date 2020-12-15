@@ -2,15 +2,15 @@
 
 My interest is to learn new things eventhough it is not in my job scope. 
 
--Development
+- Development
 1. Wordpress
 2. Flutter
 3. Unreal Engine 
 
--Animation
-1.Cartoon Drawing 2
+- Animation
+1. Cartoon Drawing 2
 
--Design
+- Design
 1. Photoshop
 2. TinkerCad
 
