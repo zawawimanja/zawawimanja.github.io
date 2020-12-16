@@ -4,7 +4,7 @@ My interest is to learn new things eventhough it is not in my job scope.
 
 - Development
 1. Wordpress
-2. Flutter
+2. Android Java/Flutter
 3. Unreal Engine 
 
 - Animation
@@ -13,6 +13,11 @@ My interest is to learn new things eventhough it is not in my job scope.
 - Design
 1. Photoshop
 2. TinkerCad
+
+- Video
+1. Kinemaster
+
+- Music
 
 - Frontend 
 1. XML
