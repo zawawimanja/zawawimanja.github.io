@@ -19,6 +19,10 @@ My interest is to learn new things eventhough it is not in my job scope.
 
 - Music
 
+- Electronic
+
+1. Arduino
+
 - Frontend 
 1. XML
 2. XAML
