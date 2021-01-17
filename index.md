@@ -10,6 +10,9 @@ My interest is to learn new things eventhough it is not in my job scope.
 - Animation
 1. Cartoon Drawing 2
 
+- Electronic
+1. Arduino
+
 - Design
 1. Photoshop
 2. TinkerCad
@@ -22,9 +25,6 @@ My interest is to learn new things eventhough it is not in my job scope.
 
 - VFX
 
-- Electronic
-1. Arduino
-
 - Frontend 
 1. XML
 2. XAML
@@ -36,6 +36,10 @@ My interest is to learn new things eventhough it is not in my job scope.
 - Database
 1. Firebase
 2. MySQL
+
+- Testing
+1. Selenium
+2. Appium
 
 - Marketing SEO SocMed
 1. Google Analytics
