@@ -16,11 +16,13 @@ My interest is to learn new things eventhough it is not in my job scope.
 
 - Video
 1. Kinemaster
+2. Filmora
 
 - Music
 
-- Electronic
+- VFX
 
+- Electronic
 1. Arduino
 
 - Frontend 
