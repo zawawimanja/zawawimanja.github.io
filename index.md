@@ -2,10 +2,14 @@
 
 My interest is to learn new things eventhough it is not in my job scope. 
 
-- Development
+- Web Development
 1. Wordpress
-2. Android Java
-3. Unreal Engine 
+
+- Apps Development
+1. Android Java
+
+- Game Development
+1.  Gdevelop
 
 - Animation
 1. Cartoon Drawing 2
@@ -16,6 +20,7 @@ My interest is to learn new things eventhough it is not in my job scope.
 - Design
 1. Photoshop
 2. TinkerCad
+3. Canva
 
 - Video
 1. Kinemaster
@@ -40,6 +45,7 @@ My interest is to learn new things eventhough it is not in my job scope.
 - Testing
 1. Selenium
 2. Appium
+3. Tosca Tricentis
 
 - Marketing SEO SocMed
 1. Google Analytics
