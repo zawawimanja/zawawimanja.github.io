@@ -30,6 +30,8 @@ My interest is to learn new things eventhough it is not in my job scope.
 
 - VFX
 
+- Linux
+
 - Frontend 
 1. XML
 2. XAML
