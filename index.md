@@ -47,7 +47,9 @@ My interest is to learn new things eventhough it is not in my job scope.
 - Testing
 1. Selenium
 2. Appium
-3. Tosca Tricentis
+3. Jmeter
+4. Tosca Tricentis
+5. Katalon Studio
 
 - Marketing SEO SocMed
 1. Google Analytics
@@ -66,6 +68,7 @@ My interest is to learn new things eventhough it is not in my job scope.
 2. JAdxgui
 3. Frida
 4. BurpSuite
+5. OWASP( ZAP) 
 
 ### Support or Contact
 
