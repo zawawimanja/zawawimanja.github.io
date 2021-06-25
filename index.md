@@ -9,7 +9,7 @@ My interest is to learn new things eventhough it is not in my job scope.
 1. Android Java
 
 - Game Development
-1.  Gdevelop
+1.  Godot
 
 - Animation
 1. Cartoon Drawing 2
