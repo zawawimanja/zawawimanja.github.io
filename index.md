@@ -1,6 +1,6 @@
 ## Software Tester 
 
-My interest is to learn new things eventhough it is not in my job scope. 
+List of tools that I am familiar with.
 
 - Web Development
 1. Wordpress
@@ -9,7 +9,7 @@ My interest is to learn new things eventhough it is not in my job scope.
 1. Android Java
 
 - Game Development
-1.  Godot
+1.  
 
 - Animation
 1. Cartoon Drawing 2
@@ -50,6 +50,7 @@ My interest is to learn new things eventhough it is not in my job scope.
 3. Jmeter
 4. Tosca Tricentis
 5. Katalon Studio
+6. Cypress
 
 - Marketing SEO SocMed
 1. Google Analytics
@@ -69,6 +70,12 @@ My interest is to learn new things eventhough it is not in my job scope.
 3. Frida
 4. BurpSuite
 5. OWASP( ZAP) 
+
+Latest
+1. Jira
+2. TestRail
+3. Docker
+4. Typescript
 
 ### Support or Contact
 
