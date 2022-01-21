@@ -71,7 +71,7 @@ List of tools that I am familiar with.
 4. BurpSuite
 5. OWASP( ZAP) 
 
-Latest
+- Latest
 1. Jira
 2. TestRail
 3. Docker
